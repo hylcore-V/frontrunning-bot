@@ -2,6 +2,7 @@
 
 ============================
 
+
 This bot is designed to listen for transactions on PancakeSwap and automatically perform token buying and selling based on predefined conditions. The bot listens to the mempool for any pending transactions and acts upon them. It uses the Ethers.js library to interact with the EVM Blockchain.
 
 ## 🎯 Features
